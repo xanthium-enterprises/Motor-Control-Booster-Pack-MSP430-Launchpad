@@ -10,6 +10,10 @@
   
 <a href = "http://xanthium.in/Robot-MotorControl-RS485-Shield-for-MSP430-Launchpad"> Full Details about the Board **Features,Price and Tutorials** can be found here.</a>
 
+**UserManual / DataSheet** of the Booster Pack <a href = "http://xanthium.in/usermanual-for-msp430-robot-booster-pack-v1-0">can be found here</a>
+
+
+
 The Repository contains the following 
 
 - **MSP430-Booster-Pack-DC-Motor-Control**
