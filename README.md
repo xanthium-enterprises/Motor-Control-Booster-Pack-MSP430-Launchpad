@@ -28,7 +28,8 @@ The Repository contains the following
  
 - **MSP430-Booster-Pack-RS485-Communication**
 
-  Code for controlling DC motors connected to the Booster Pack through **RS485 protocol** 
+  Code for controlling DC motors connected to the Booster Pack through **RS485 protocol** .
+  <a href ="https://github.com/xanthium-enterprises/Remote-motor-control-RS485-Protocol-MSP430-Launchpad" >Check this Github repo also</a> 
   
 - **MSP430-Tutorial-Bot-Shield-V1.0-Circuit**
  
