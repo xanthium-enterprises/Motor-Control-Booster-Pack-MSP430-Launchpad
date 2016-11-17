@@ -9,7 +9,8 @@
    - MSP430 **RS485 Communication Booster Pack** 
    - MSP430 **Robot Booster Pack for Launchpad**
  
- ------------------------------------------------------------------------------------------------------------------------------------
+ 
+------------------------------------------------------------------------------------------------------------------------------------
 <a href = "http://xanthium.in/Robot-MotorControl-RS485-Shield-for-MSP430-Launchpad"> Full Details about the Board **Features,Price and Tutorials** can be found here.</a>
 
 **UserManual / DataSheet** of the Booster Pack <a href = "http://xanthium.in/usermanual-for-msp430-robot-booster-pack-v1-0">can be found here</a>
