@@ -15,7 +15,7 @@
  - <a href ="http://www.ebay.in/sch/xanthium.enterprises/m.html?rt=nc&_dmd=2">**Store**</a>
  - <a href = "http://xanthium.in/Robot-MotorControl-RS485-Shield-for-MSP430-Launchpad">**Website**</a>
  - <a href = "http://xanthium.in/usermanual-for-msp430-robot-booster-pack-v1-0">**User Manual**</a>
- 
+ - <a href = "https://www.youtube.com/watch?v=ltnM9sQzRvc">**Video** *(Youtube)*</a>
 -------------------------------------------------------------------------------------------------------------------------------------
  
 ## Repo Contents
