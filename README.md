@@ -38,7 +38,7 @@ The Repository contains the following
  
 - ###RS485 communication between PC and MSP430 Booster Pack 
   - <img src = "http://xanthium.in/sites/default/files/site-images/RS485-comm-Csharp/msp430-rs485-booster-pack-usb2serial-interface.jpg" />
-  - Contains code for controlling DC motors connected to the Booster Pack through **RS485 protocol**.
+  - Contains code for communicating with PC using **RS485 protocol**.
   - Source Code available in **MSP430-Booster-Pack-RS485-Communication** directory
   - <a href ="http://xanthium.in/RS485-communication-using-MAX485-and-MSP430-Launchpad#robot-shield-rs485-comm" >Tutorial (MSP430 RS485 communication with PC)</a>
   
