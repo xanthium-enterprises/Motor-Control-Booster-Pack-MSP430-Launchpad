@@ -23,20 +23,20 @@
 
 The Repository contains the following 
 
-- **DC Brushed Motor Control using MSP430** 
+- ###DC Brushed Motor Control using MSP430 
   - <img src = "http://www.xanthium.in/sites/default/files/site-images/robot-shield-controlling-dc-motors-msp430-launchpad/motor-shield-controlling-2-dc-motors.jpg" />
   - Contains code for controlling DC motors using MSP430 Launchpad and Motor control Booster Pack.
   - Source Code available in **MSP430-Booster-Pack-DC-Motor-Control** directory 
   - <a href ="http://xanthium.in/controlling-dc-motors-using-msp430-launchpad-and-l293d-robot-shield" >Tutorial (MSP430 DC motor Control)</a> 
   
 
-- **DC motor Speed Control using Pulse Width Modulation (PWM)**
+- ###DC motor Speed Control using Pulse Width Modulation (PWM)
   - <img src = "http://www.xanthium.in/sites/default/files/site-images/robot-shield-pwm-speed-control-dc-motor/PWM-Motor-low-speed.jpg" />
   - Contains code for controlling the **speed of DC motors** connected to the Booster Pack using Software PWM.
   - Source Code available in **MSP430-Booster-Pack-PWM-Speed-Control** directory 
   - <a href ="http://xanthium.in/pwm-speed-control-motor-using-msp430-launchpad-and-l293d" >Tutorial (MSP430 DC motor speed Control using PWM)</a> 
  
-- **DC motor control using MSP430 and RS485 Protocol**
+- ###RS485 communication between PC and MSP430 Booster Pack 
   - <img src = "http://xanthium.in/sites/default/files/site-images/RS485-comm-Csharp/msp430-rs485-booster-pack-usb2serial-interface.jpg" />
   - Contains code for controlling DC motors connected to the Booster Pack through **RS485 protocol**.
   - Source Code available in **MSP430-Booster-Pack-RS485-Communication** directory
@@ -44,7 +44,7 @@ The Repository contains the following
   
 - **Circuit Diagram of Booster Pack**
  
-  - Circuit diagram in PDF available in **MSP430-Tutorial-Bot-Shield-V1.0-Circuit** directory
+  - Circuit diagram in PDF  **MSP430-Tutorial-Bot-Shield-V1.0-Circuit.pdf** 
 
 
 
