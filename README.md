@@ -11,18 +11,22 @@
  
  
 ------------------------------------------------------------------------------------------------------------------------------------
-<a href = "http://xanthium.in/Robot-MotorControl-RS485-Shield-for-MSP430-Launchpad"> Full Details about the Board **Features,Price and Tutorials** can be found here.</a>
 
-**UserManual / DataSheet** of the Booster Pack <a href = "http://xanthium.in/usermanual-for-msp430-robot-booster-pack-v1-0">can be found here</a>
-
-
+ - <a href ="http://www.ebay.in/sch/xanthium.enterprises/m.html?rt=nc&_dmd=2">**Store**</a>
+ - <a href = "http://xanthium.in/Robot-MotorControl-RS485-Shield-for-MSP430-Launchpad">**Website**</a>
+ - <a href = "http://xanthium.in/usermanual-for-msp430-robot-booster-pack-v1-0">**User Manual**</a>
+ 
+-------------------------------------------------------------------------------------------------------------------------------------
+ 
+## Repo Contents
 
 The Repository contains the following 
 
-- **MSP430-Booster-Pack-DC-Motor-Control**
-
-  Code for controlling DC motors connected to the Booster Pack.You can find the
-  <a href ="http://xanthium.in/controlling-dc-motors-using-msp430-launchpad-and-l293d-robot-shield" > **Full tutorial here** </a> 
+- **DC Brushed Motor Control using MSP430** **MSP430-Booster-Pack-DC-Motor-Control**
+  - Contains code for controlling DC motors using MSP430 Launchpad and Motor control Booster Pack.
+  - Source Code available in *MSP430-Booster-Pack-DC-Motor-Control* directory 
+  - <a href ="http://xanthium.in/controlling-dc-motors-using-msp430-launchpad-and-l293d-robot-shield" >Tutorial (MSP430 DC motor Control)</a> 
+  
 
 - **MSP430-Booster-Pack-PWM-Speed-Control**
   
